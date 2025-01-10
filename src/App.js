@@ -7,6 +7,7 @@ import Projects from "./Projects/Projects";
 import Contact from "./Contact/Contact";
 import "./styles/app.css";
 import Background from "./Background/Background.js";
+import PlayerStats from "./playerStats/PlayerStats.js";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
         <Route path="/projects" element={<Projects />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
+      <PlayerStats/>
   </Router>
   );
 }
