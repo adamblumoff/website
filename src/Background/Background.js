@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/background.css";
-import video from "../assets/bg-universe.mp4";
+import video from "../assets/mixkit-stars-in-space-background-1610-hd-ready.mp4";
 import fallbackImage from "../assets/fallback-image.png";
 
 

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import avatarImage from "../assets/avatar-image.png";
+import avatarImage from "../assets/call of duty soldier male brown hair jacket quarter turn rugged copy.png";
 import "../styles/avatar.css";
 
 
